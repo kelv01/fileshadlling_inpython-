@@ -1,0 +1,6 @@
+This is the first line of text.
+123 456 789
+This is another line with a mix of strings and numbers: 54321.
+This line is appended later.
+More text to append.
+Last appended line.
